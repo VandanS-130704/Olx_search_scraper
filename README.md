@@ -19,8 +19,8 @@ A simple Python script to scrape search results from OLX (example: "Car Cover") 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VandanS-130704/olx-search-scraper.git
-   cd olx-search-scraper
+   git clone https://github.com/VandanS-130704/Olx_search_scraper.git
+   cd Olx_search_scraper
 
    ```
 
